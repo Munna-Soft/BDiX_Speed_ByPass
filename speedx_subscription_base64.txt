@@ -1,1 +1,63 @@
-cHJveGllczoKICAtIG5hbWU6ICJTcGVlZFggU2VydmVyLTEiCiAgICB0eXBlOiBzb2NrczUKICAgIHNlcnZlcjogMTIzLjQ5LjM5LjEyMAogICAgcG9ydDogMTA4OAogICAgdXNlcm5hbWU6IHRlc3QKICAgIHBhc3N3b3JkOiB0ZXN0CiAgICAKICAtIG5hbWU6ICJTcGVlZFggU2VydmVyLTIiCiAgICB0eXBlOiBzb2NrczUKICAgIHNlcnZlcjogMTAzLjE0MC4yNS4xMAogICAgcG9ydDogMTA4OAogICAgdXNlcm5hbWU6IHRlc3QKICAgIHBhc3N3b3JkOiB0ZXN0CiAgICAKICAtIG5hbWU6ICJTcGVlZFggU2VydmVyLTMiCiAgICB0eXBlOiBzb2NrczUKICAgIHNlcnZlcjogMTAzLjE5Ny40OC4xNTQKICAgIHBvcnQ6IDEwODgKICAgIHVzZXJuYW1lOiB0ZXN0CiAgICBwYXNzd29yZDogdGVzdAogICAgCiAgLSBuYW1lOiAiU3BlZWRYIFNlcnZlci00IgogICAgdHlwZTogc29ja3M1CiAgICBzZXJ2ZXI6IDEwMy4xMDguNjAuMTczCiAgICBwb3J0OiAxMDg4CiAgICB1c2VybmFtZTogdGVzdAogICAgcGFzc3dvcmQ6IHRlc3QKICAgIAogIC0gbmFtZTogIlNwZWVkWCBTZXJ2ZXItNSIKICAgIHR5cGU6IHNvY2tzNQogICAgc2VydmVyOiAxMDMuMTY2LjI1My45MgogICAgcG9ydDogMTA4OAogICAgdXNlcm5hbWU6IHRlc3QKICAgIHBhc3N3b3JkOiB0ZXN0CiAgICAKICAtIG5hbWU6ICJTcGVlZFggU2VydmVyLTYiCiAgICB0eXBlOiBzb2NrczUKICAgIHNlcnZlcjogMjAzLjc2LjExMC4xMTgKICAgIHBvcnQ6IDEwODgKICAgIHVzZXJuYW1lOiB0ZXN0CiAgICBwYXNzd29yZDogdGVzdAogICAgCiAgLSBuYW1lOiAiU3BlZWRYIFNlcnZlci03IgogICAgdHlwZTogc29ja3M1CiAgICBzZXJ2ZXI6IDIyMC4yNDcuMTY1LjEyOQogICAgcG9ydDogMTA4OAogICAgdXNlcm5hbWU6IHRlc3QKICAgIHBhc3N3b3JkOiB0ZXN0CiAgICAKICAtIG5hbWU6ICJTcGVlZFggU2VydmVyLTgiCiAgICB0eXBlOiBzb2NrczUKICAgIHNlcnZlcjogMjAzLjc2LjIyMC4xNjgKICAgIHBvcnQ6IDEwNTIKICAgIHVzZXJuYW1lOiBleHJleAogICAgcGFzc3dvcmQ6IGV4cmV4CiAgICAKICAtIG5hbWU6ICJTcGVlZFggU2VydmVyLTkiCiAgICB0eXBlOiBzb2NrczUKICAgIHNlcnZlcjogMTAzLjExNC45Ni4yNDYgCiAgICBwb3J0OiAxMDgwCiAgICB1c2VybmFtZTogQWRtaW50ZXN0CiAgICBwYXNzd29yZDogQWRtaW50ZXN0Cgpwcm94eS1ncm91cHM6CiAgLSBuYW1lOiAiU3BlZWRYIgogICAgdHlwZTogc2VsZWN0CiAgICBwcm94aWVzOgogICAgICAtICJBTEwgU3BlZWRYIgogICAgCiAgLSBuYW1lOiAiQUxMIFNwZWVkWCIKICAgIHR5cGU6IGxvYWQtYmFsYW5jZQogICAgc3RyYXRlZ3k6IHJvdW5kLXJvYmluCiAgICB1cmw6IGh0dHA6Ly8xLjEuMS4xCiAgICBpbnRlcnZhbDogMTAKICAgIHByb3hpZXM6CiAgICAgIC0gIlNwZWVkWCBTZXJ2ZXItMSIKICAgICAgLSAiU3BlZWRYIFNlcnZlci0yIgogICAgICAtICJTcGVlZFggU2VydmVyLTMiCiAgICAgIC0gIlNwZWVkWCBTZXJ2ZXItNCIKICAgICAgLSAiU3BlZWRYIFNlcnZlci01IgogICAgICAtICJTcGVlZFggU2VydmVyLTYiCiAgICAgIC0gIlNwZWVkWCBTZXJ2ZXItNyIKICAgICAgLSAiU3BlZWRYIFNlcnZlci04IgogICAgICAtICJTcGVlZFggU2VydmVyLTkiCiAgICAgIApydWxlczoKICAtIERPTUFJTi1TVUZGSVgsZ29vZ2xlLmNvbSxTcGVlZFgKICAtIERPTUFJTi1TVUZGSVgseW91dHViZS5jb20sU3BlZWRYCiAgLSBET01BSU4tU1VGRklYLGZhY2Vib29rLmNvbSxTcGVlZFgKICAtIE5FVFdPUkssVURQLERJUkVDVAogIC0gTUFUQ0gsU3BlZWRYCg==
+proxies:
+  - name: "SpeedX Server-1"
+    type: socks5
+    server: 123.49.39.120
+    port: 1088
+    username: test
+    password: test
+    
+  - name: "SpeedX Server-2"
+    type: socks5
+    server: 103.140.25.10
+    port: 1088
+    username: test
+    password: test
+    
+  - name: "SpeedX Server-3"
+    type: socks5
+    server: 103.197.48.154
+    port: 1088
+    username: test
+    password: test
+    
+  - name: "SpeedX Server-4"
+    type: socks5
+    server: 103.108.60.173
+    port: 1088
+    username: test
+    password: test
+    
+  - name: "SpeedX Server-5"
+    type: socks5
+    server: 103.166.253.92
+    port: 1088
+    username: test
+    password: test
+    
+  - name: "SpeedX Server-6"
+    type: socks5
+    server: 203.76.110.118
+    port: 1088
+    username: test
+    password: test
+    
+  - name: "SpeedX Server-7"
+    type: socks5
+    server: 220.247.165.129
+    port: 1088
+    username: test
+    password: test
+    
+  - name: "SpeedX Server-8"
+    type: socks5
+    server: 203.76.220.168
+    port: 1052
+    username: exrex
+    password: exrex
+    
+  - name: "SpeedX Server-9"
+    type: socks5
+    server: 103.114.96.246 
+    Port : 1080
+    username: Admintest
+    password: Admintest
