@@ -22,7 +22,7 @@ This repository provides an **open-source configuration file** that, when used w
 ## Installation & Usage
 
 ### Android
-1. Download **FlClash** APK from the [official GitHub releases](https://github.com/chen08209/FlClash/releases).
+1. Download **FlClash** APK from the [GitHub releases](https://github.com/chen08209/FlClash/releases).
 2. Install the APK on your Android device.
 3. Open FlClash → Import config → Select `SpeedX.yaml`.
 4. Start the client and test speed.
