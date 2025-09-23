@@ -1,0 +1,20 @@
+proxy-providers:
+  SpeedX:
+    type: http
+    url: https://raw.githubusercontent.com/Munna-Soft/BDiX_Speed_ByPass/refs/heads/master/config.txt
+    interval: 60
+    path: ./providers/SpeedX.yaml
+
+proxy-groups:
+  - name: "SpeedX"
+    type: load-balance
+    strategy: round-robin
+    url: http://1.1.1.1
+    interval: 3
+    use:
+      - SpeedX
+
+
+rules:
+  - NETWORK,UDP,DIRECT
+  - MATCH,SpeedX
